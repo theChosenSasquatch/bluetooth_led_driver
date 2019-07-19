@@ -5238,6 +5238,10 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="113,1,25.6371,-16.2839,JP2,,,,,"/>
+<approved hash="113,1,-59.7323,-17.5539,JP1,,,,,"/>
+</errors>
 </schematic>
 </drawing>
 <compatibility>
